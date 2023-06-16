@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/12113900?v=4" width="100"/>
+  <!-- img src="https://avatars.githubusercontent.com/u/12113900?v=4" width="100"/ -->
+  
+  <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="750" height="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/diljiths1447/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +15,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-diljith369&style=flat-square&color=blue" alt=""/>
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="600" height="300"/>
 </div> 
 </div>     
 
