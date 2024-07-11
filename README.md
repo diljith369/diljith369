@@ -1,17 +1,12 @@
 <div id="header" align="center">
   <!-- img src="https://avatars.githubusercontent.com/u/12113900?v=4" width="100"/ -->
-***
 
 ### 🛡️ About me :
 Unleashing Code for Secure Intrusions: A Programmer Breaking Barriers in Penetration Testing
 
-- :telescope: Working as a Penetration Tester and contributing to secure my work place.
-
-- :seedling: Exploring new programming languages and tech stacks.
-
-- :zap: Free time, I code , debug and learn new things.
-
-***
+Working as a Penetration Tester and contributing to secure my work place.
+Exploring new programming languages and tech stacks.
+Free time, I code , debug and learn new things.
 
 ### :hammer_and_wrench: Languages and Tools :
 
