@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <!-- img src="https://avatars.githubusercontent.com/u/12113900?v=4" width="100"/ -->
-  
-  <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="750" height="300"/>
-  <div id="badges">
+    <div id="badges">
   <a href="https://www.linkedin.com/in/diljiths1447/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,9 +26,6 @@ Unleashing Code for Secure Intrusions: A Programmer Breaking Barriers in Penetra
 - :seedling: Exploring new programming languages and tech stacks.
 
 - :zap: Free time, I code , debug and learn new things.
-
-- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diljiths1447/)
-
 
 ***
 
