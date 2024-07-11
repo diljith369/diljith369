@@ -4,14 +4,15 @@
 ### 🛡️ About me :
 Unleashing Code for Secure Intrusions: A Programmer Breaking Barriers in Penetration Testing
 <div>
-- Working as a Penetration Tester and contributing to secure my work place.
-  </div> 
-  <div>
-- Exploring new programming languages and tech stacks.
+Working as a Penetration Tester and contributing to secure my work place.
 </div> 
 <div>
-- Free time, I code , debug and learn new things.
+Exploring new programming languages and tech stacks.
+</div> 
+<div>
+Free time, I code , debug and learn new things.
 </div>  
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
